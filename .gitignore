@@ -5,7 +5,7 @@ __pycache__/
 *.py[cod]
 
 # Archivos de configuración de entorno
-.env
+*.env
 
 # Bases de datos locales SQLite
 *.db
