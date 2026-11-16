@@ -9,6 +9,8 @@ from sqlalchemy import Enum as SAEnum
 #from app.models.profesor import Profesor
 # from .curso import Curso
 
+# Actualización v1.1 en modelo Asignatura ?
+# extra en el modelo Asignatura: cuatrimestre y caracter, ambos como enumerados
 """
 +--------------+--------------------------------+------+-----+---------+-------+
 | Field        | Type                           | Null | Key | Default | Extra |
