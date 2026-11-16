@@ -1,0 +1,9 @@
+# Entornos virtuales y cache de Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Bases de datos locales SQLite
+*.db
+*.sqlite3
